@@ -1,0 +1,19 @@
+.boo {
+	height: 200px;
+	width: 200px;
+	background: green;
+	border-radius: 10px;
+	text-align: center;
+	line-height: 200px;
+	display: none;
+}
+
+.peeka:hover + .boo {
+	display:block
+}
+benjamin {
+	background:red;
+	height: 200px;
+	width: 200px;
+	display: block;
+}

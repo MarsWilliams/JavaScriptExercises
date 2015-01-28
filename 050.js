@@ -8,8 +8,10 @@ var machine = {
 	parts: [],
 	capabilities: {}
 };
-var robot = {};
-var vehicle = {};
+var robot = {
+};
+var vehicle = {
+};
 
 
 
